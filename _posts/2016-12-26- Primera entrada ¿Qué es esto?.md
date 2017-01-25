@@ -17,7 +17,8 @@ El proyecto de [Diédrico App][diedrico] se comenzó para enero de 2016, y ahora
 
 La cronología del proyecto se puede ver en el [about](about/). En mi opinión es importante recalcar otra vez lo que explico en el about, que pone:
 
-```
+---
+
 El pensamiento del proyecto ha pasado por diferentes fases, y en consecuencia, por diferentes repositorios y carpetas, que a día de hoy lo hace un poco lioso de ver como ha evolucionado el proyecto. En primer repositorio del proyecto fue en la cuenta de [github de Fran Acién](https://github.com/acien101/DiedricoApp) donde hay ahora dos carpetas, una *DiedricoTo3D* y otra *DiedricoAnimation*, que serían como laboratorios para experimentar por diferentes ramas de como se enfocaba el proyecto. *DiedricoTo3D* fue la primera parte del proyecto que consistía en reconocimiento con visión artificial de láminas de diédrico. *DiedricoAnimation* fue la segunda parte del proyecto que reunía toda la matería de diédrico. Para simplificar las cosas se creó la organización (en github) de [DiedricoApp](https://github.com/DiedricoApp) en la que estaría el blog y un *merge* de las dos ramas del proyecto, cada una potenciadas para mejorara la experiencia de usuario.
 
 Así pues, una cronología de proyecto sería:    
@@ -69,8 +70,8 @@ Enero 2017<br>
 |<br>
 <b>Creación del <a href="https://github.com/DiedricoApp/DiedricoApp">repositorio con el proyecto unificado</a></b><br>
 Enero 2017<br>
-</div>
+</div>  
+  
 
-
-```
+---
 amil101@debian:~$ EXIT
