@@ -4,17 +4,23 @@ title: About
 permalink: /about/
 ---
 
-Estas en el blog del proyecto **DiedricoApp**, donde estará reflejado el desarrollo del mismo. *DiedricoApp* es una aplicación en [Android](https://www.android.com/) para enseñar una modalidad de dibujo técnico llamada *diédrico* que se imparte bachiller. El objetivo de la aplicación es potenciar la vista espacial del alumnado ayudandolo a ver más allá de un papel, con animaciones interactivas, con toda la materia de la asignatura, y con funciones especiales para dispositivos móviles como la visión artificial.
+Estás en el blog del proyecto **DiedricoApp**, donde encontrarás reflejado el desarrollo del mismo. 
+*DiedricoApp* es una aplicación en [Android](https://www.android.com/) para enseñar uno de los sistemas de dibujo técnico llamada *diédrico* que se imparte en Bachillerato. 
+El objetivo de la aplicación es potenciar la vista espacial del alumnado ayudándolo a ver más allá de un papel, con animaciones interactivas, con toda la materia de la asignatura, y con funciones especiales para dispositivos móviles como la visión artificial.
 
 ### Historia del proyecto
 
-**DiedricoApp** está desarrollada por [Fran Acién](https://github.com/acien101), estudiante Ingeniería de Computadores en la [universidad Politécnica de Madrid](http://upm.es/). El proyecto se empezó a desarrollar en 2016, cuando estaba cursando segundo de bachiller, con el objetivo de ayudar a su clase a hacer la tarea de dibujo técnico, -*Si el profesor no esneña enseñaré yo*-.
+**DiedricoApp** está desarrollada por [Fran Acién](https://github.com/acien101), estudiante Ingeniería de Computadores en la [Universidad Politécnica de Madrid](http://upm.es/). 
+El proyecto se empezó a desarrollar en 2016, cursando segundo de Bachillerato, con el objetivo de ayudar en clase a hacer los ejercicios de Dibujo Técnico, -*Si el profesor no enseña enseñaré yo*-.
 
-El principal pilar el proyecto es que sea software libre, con todo su trabajo publicado en [github](https://github.com/DiedricoApp). Los primeros meses del proyecto fueron por libre, solo por diversión y para aprender, y en septiembre de 2016 lo presenté al concurso universitario de software libre por lo que el desarrollo empezó a hacerse de una forma más seria.
+El principal pilar el proyecto es que sea *software libre*, con todo su trabajo publicado en [github](https://github.com/DiedricoApp). Los primeros meses del proyecto fueron por diversión y para aprender, pero en septiembre de 2016 se presentó al Concurso Universitario de Software Libre por lo que el desarrollo empezó a hacerse de una forma más seria.
 
 ## Cronología del proyecto
 
-El pensamiento del proyecto ha pasado por diferentes fases, y en consecuencia, por diferentes repositorios y carpetas, que a día de hoy lo hace un poco lioso de ver como ha evolucionado el proyecto. En primer repositorio del proyecto fue en la cuenta de [github de Fran Acién](https://github.com/acien101/DiedricoApp) donde hay ahora dos carpetas, una *DiedricoTo3D* y otra *DiedricoAnimation*, que serían como laboratorios para experimentar por diferentes ramas de como se enfocaba el proyecto. *DiedricoTo3D* fue la primera parte del proyecto que consistía en reconocimiento con visión artificial de láminas de diédrico. *DiedricoAnimation* fue la segunda parte del proyecto que reunía toda la matería de diédrico. Para simplificar las cosas se creó la organización (en github) de [DiedricoApp](https://github.com/DiedricoApp) en la que estaría el blog y un *merge* de las dos ramas del proyecto, cada una potenciadas para mejorara la experiencia de usuario.
+El pensamiento del proyecto ha pasado por diferentes fases, y en consecuencia, por diferentes repositorios y carpetas, algo que, a día de hoy, puede hacer difícil ver cómo ha evolucionado el proyecto. El primer repositorio del proyecto fue en [github de Fran Acién](https://github.com/acien101/DiedricoApp) donde hay ahora dos carpetas: por un lado *DiedricoTo3D* y otro *DiedricoAnimation*, que serían como una especie de laboratorios para experimentar, en diferentes ópticas, cómo se enfoca el proyecto.
+*DiedricoTo3D* fue la primera parte del proyecto que consistía en reconocimiento con visión artificial de láminas de diédrico. 
+*DiedricoAnimation* fue la segunda parte del proyecto que reunía toda la materia de diédrico.
+Para simplificar las cosas se creó la organización (en github) de [DiedricoApp](https://github.com/DiedricoApp) en la que estaría este blog y un *merge* de las dos ramas del proyecto, ambas potenciadas para mejorar la experiencia del usuario.
 
 Así pues, una cronología de proyecto sería:    
 
