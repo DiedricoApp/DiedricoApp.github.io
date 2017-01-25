@@ -19,9 +19,9 @@ La idea empezó en Enero de cuando yo cursaba segundo de bachillerato, con el ob
 ![DiedricoApp en Abril 2016](../images/todo.png)
 ![DiedricoApp en Abril 2016](../images/todo3D.png)
 
-Como ese objetivo estaba resuelto, el siguiente objetivo fue que la aplicación fuese capaz de enseñarte dibujo técnico con animaciones y elementos interactivos. Desde abril hasta julio me dediqué a hacer animaciones, y las hice en la carpeta [/DiedricoAnimation](https://github.com/acien101/DiedricoApp/tree/master/DiedricoAnimation). El código y la experiencia de usuario era muy muy muy mala, pero me servía para ver como quedaba. Foto del prototipo:  
+Como ese objetivo estaba resuelto, el siguiente objetivo fue que la aplicación fuese capaz de enseñarte dibujo técnico con animaciones y elementos interactivos. Desde abril hasta julio me dediqué a hacer animaciones, y las hice en la carpeta [/DiedricoAnimation](https://github.com/acien101/DiedricoApp/tree/master/DiedricoAnimation). Foto del prototipo:  
 
-![DiedricoApp en Abril 2016](../images/diedricoAppAgosto.gif)
+![DiedricoApp en Agosto 2016](../images/diedricoAppAgosto.gif)
 
 Como se ve, hay mucha documentación, pero la experiencia de usuario, es muy muy mala. El siguiente objetivo era mejorarla y añadir nuevas funciones.
 
@@ -32,17 +32,17 @@ Por este motivo, sale la segunda etapa del proyecto, para juntar estas dos ramas
 ## Segunda etapa (Septiembre 2016 - actualidad)
 Para poder crear este blog en github pages, tuve que crear en github la organización llamada [DiedricoApp](https://github.com/DiedricoApp). Con esta excusa cree el repositorio [DiedricoApp](https://github.com/DiedricoApp/DiedricoApp) para unir estas dos ramas y mejorarlas para que puedan llegar a ser un producto al público. Por esto mismo, el proyecto final se irá desarrollando en ese repositorio.
 
-La parte mala es que hay mucha documentación y código interesante en el antiguo repositorio, pero, por bien de la organización y de la gente que esté interesada en el proyecto, es mejor tener el proyecto en una organización de github.
+La parte mala es que hay mucha documentación y código interesante en el antiguo repositorio, pero, por bien de la organización y de la gente que esté interesada en el proyecto, es mejor tener todo en una organización de github.
 
 ## Futuro del proyecto
 Las cosas que están pendientes por hacer son:
-..* Mejorar la UX (user experience)
-..* Añadir reconocimiento de láminas (mejor detección en qué es cada cosa)
-..* Añadir nuevas funciones para mejorar la experiencia en telefonos móviles
-..* Añadir documentación
-..* Mejorar la calidad del código
-..* Hacer una API de todas las funciones usadas
-..* Muchas cosas más...
+··* Mejorar la UX (user experience)
+··* Añadir reconocimiento de láminas (mejor detección en qué es cada cosa)
+··* Añadir nuevas funciones para mejorar la experiencia en telefonos móviles
+··* Añadir documentación
+··* Mejorar la calidad del código
+··* Hacer una API de todas las funciones usadas
+··* Muchas cosas más...
 
 Esto es todo por el momento. Iré subiendo los avances.  
 
