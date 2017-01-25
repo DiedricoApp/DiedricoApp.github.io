@@ -16,7 +16,7 @@ El principal pilar el proyecto es que sea software libre, con todo su trabajo pu
 
 El pensamiento del proyecto ha pasado por diferentes fases, y en consecuencia, por diferentes repositorios y carpetas, que a día de hoy lo hace un poco lioso de ver como ha evolucionado el proyecto. En primer repositorio del proyecto fue en la cuenta de [github de Fran Acién](https://github.com/acien101/DiedricoApp) donde hay ahora dos carpetas, una *DiedricoTo3D* y otra *DiedricoAnimation*, que serían como laboratorios para experimentar por diferentes ramas de como se enfocaba el proyecto. *DiedricoTo3D* fue la primera parte del proyecto que consistía en reconocimiento con visión artificial de láminas de diédrico. *DiedricoAnimation* fue la segunda parte del proyecto que reunía toda la matería de diédrico. Para simplificar las cosas se creó la organización (en github) de [DiedricoApp](https://github.com/DiedricoApp) en la que estaría el blog y un *merge* de las dos ramas del proyecto, cada una potenciadas para mejorara la experiencia de usuario.
 
-Así pues, una cronología de proyecto sería:
+Así pues, una cronología de proyecto sería:    
 
 <div style="text-align:center">
 <b>Idea de una aplicación para ayudar a los alumnos de bachiller con dibujo ténico</b><br>
