@@ -12,10 +12,10 @@ Cuando cursé segundo de bachillerato, nuestro profesor de dibujo técnico se ne
 
 Con este panorama me vi obligado a crear una aplicación para ayudar a mis compañeros, en la que explicase toda la asignatura de forma interactiva y además que pudieses pasar las láminas de diédrico a tres dimensiones. Y esa idea es la que se convirtió en **DiedricoApp**.
 
-El proyecto de [Diédrico App][diedrico] se comenzó para enero de 2016, y ahora, diciembre de 2016, se encuentra bastante avanzado pero igualmente bastante temprano. La aplicación cuenta con reconocimiento de láminas para pasarlas a tres dimensiones (la UX es nefasta), mucha documentación implementada (planos, lineas, puntos, etc. pero igualmente la UX es malísima), mucho código (pero muy desorganizado).
+El proyecto de [Diédrico App](https://github.com/DiedricoApp) se comenzó para enero de 2016, y ahora, diciembre de 2016, se encuentra bastante avanzado pero igualmente bastante temprano. La aplicación cuenta con reconocimiento de láminas para pasarlas a tres dimensiones (la UX es nefasta), mucha documentación implementada (planos, lineas, puntos, etc. pero igualmente la UX es malísima), mucho código (pero muy desorganizado).
 
 
-La cronología del proyecto se puede ver en el [about](about/). En mi opinión es importante recalcar otra vez lo que explico en el about, que pone:
+La cronología del proyecto se puede ver en el [about](../about/). En mi opinión es importante recalcar otra vez lo que explico en el about, que pone:
 
 ---
 
