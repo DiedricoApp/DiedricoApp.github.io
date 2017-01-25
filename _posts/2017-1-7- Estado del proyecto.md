@@ -9,12 +9,12 @@ categories:
 - objetivos
 ---
 
-Puesto que el proyecto ha evolucionado durante este último año, voy a intentar explicar las **dos etapas** del proyecto que serían *desde enero de 2016 hasta agosto 2016* y la otra etapa de *septiembre de 2016 hasta el momento*.
+DiedricoApp tiene a día de hoy un año de desarrollo, con lo que voy a explicar las **dos etapas** del proyecto que serían: por una parte *desde enero de 2016 hasta agosto 2016* y por otra desde *septiembre de 2016 hasta el momento*.
 
 ## Primera etapa (Enero 2016 - Agosto 2016)
 El proyecto de DiédricoApp comenzó en un curso de Android impartido por Victor Suarez y luego su desarrollo fue motivado por la gente de HackLab Almería. El repositorio donde se realizó fue [este](https://github.com/acien101/DiedricoApp). La cronología del proyecto ya está explicado en la entrada anterior pero quiero explicar detalladamente como evolucionó el proyecto en esos meses.
 
-La idea empezó en Enero de cuando yo cursaba segundo de bachillerato, con el objetivo de crear una aplicación para pasar una lámina de dibujo técnico a tres dimensiones. En abril conseguí tener un prototipo medianamente aceptable, y lo desarrollé en la carpeta [/DiedricoTo3D](https://github.com/acien101/DiedricoApp/tree/master/DiedricoTo3D) .Foto del prototipo a mediados de Abril de 2016:  
+La idea empezó en Enero de cuando yo cursaba segundo de bachillerato, con el objetivo de crear una aplicación para pasar una lámina de dibujo técnico a tres dimensiones. En abril conseguí tener un prototipo medianamente aceptable, y lo desarrollé en la carpeta [/DiedricoTo3D](https://github.com/acien101/DiedricoApp/tree/master/DiedricoTo3D).Foto del prototipo a mediados de Abril de 2016:  
 
 ![DiedricoApp en Abril 2016](../images/todo.png)
 ![DiedricoApp en Abril 2016](../images/todo3D.png)
@@ -25,12 +25,12 @@ Como ese objetivo estaba resuelto, el siguiente objetivo fue que la aplicación 
 
 Como se ve, hay mucha documentación, pero la experiencia de usuario, es muy muy mala. El siguiente objetivo era mejorarla y añadir nuevas funciones.
 
-Como he puesto anteriormente, el proyecto estaba dividido en dos carpetas. En mi opinión, eso fue un tremendo error, *como las carpetas con nombre asdf*, que empezó como algo temporal hasta que la bola era tan grande que no sabía como organizarlo bien.
+Como he puesto anteriormente, el proyecto estaba dividido en dos carpetas. En mi opinión, eso fue un tremendo error, *como las carpetas con nombre 'asdf'*, que empezó como algo temporal hasta que la bola era tan grande que no sabía como organizarlo bien.
 
 Por este motivo, sale la segunda etapa del proyecto, para juntar estas dos ramas, arreglar todos los errores, y mejorar la experiencia de usuario.
 
 ## Segunda etapa (Septiembre 2016 - actualidad)
-Para poder crear este blog en github pages, tuve que crear en github la organización llamada [DiedricoApp](https://github.com/DiedricoApp). Con esta excusa cree el repositorio [DiedricoApp](https://github.com/DiedricoApp/DiedricoApp) para unir estas dos ramas y mejorarlas para que puedan llegar a ser un producto al público. Por esto mismo, el proyecto final se irá desarrollando en ese repositorio.
+Para poder crear este blog en github pages, tuve que crear en github la organización llamada [DiedricoApp](https://github.com/DiedricoApp). Con esta excusa creé el repositorio [DiedricoApp](https://github.com/DiedricoApp/DiedricoApp) para unir estas dos ramas y mejorarlas tal que puedan llegar a ser un producto de utilidad a los alumnos. Por esto mismo, el proyecto final se irá desarrollando en ese repositorio.
 
 La parte mala es que hay mucha documentación y código interesante en el antiguo repositorio, pero, por bien de la organización y de la gente que esté interesada en el proyecto, es mejor tener todo en una organización de github.
 
