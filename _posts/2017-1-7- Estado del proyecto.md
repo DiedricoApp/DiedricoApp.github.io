@@ -36,13 +36,13 @@ La parte mala es que hay mucha documentación y código interesante en el antigu
 
 ## Futuro del proyecto
 Las cosas que están pendientes por hacer son:
-··* Mejorar la UX (user experience)
-··* Añadir reconocimiento de láminas (mejor detección en qué es cada cosa)
-··* Añadir nuevas funciones para mejorar la experiencia en telefonos móviles
-··* Añadir documentación
-··* Mejorar la calidad del código
-··* Hacer una API de todas las funciones usadas
-··* Muchas cosas más...
+* Mejorar la UX (user experience)
+* Añadir reconocimiento de láminas (mejor detección en qué es cada cosa)
+* Añadir nuevas funciones para mejorar la experiencia en telefonos móviles
+* Añadir documentación
+* Mejorar la calidad del código
+* Hacer una API de todas las funciones usadas
+* Muchas cosas más...
 
 Esto es todo por el momento. Iré subiendo los avances.  
 
