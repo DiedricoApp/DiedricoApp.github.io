@@ -24,46 +24,46 @@ Enero 2016<br>
 |<br>
 |<br>
 <b>Comienzo del desarrollo</b><br>
-Febrero 2016 [/DiedricoApp/DiedricoTo3D](https://github.com/acien101/DiedricoApp/tree/master/DiedricoTo3D)<br>
+Febrero 2016 <a href="https://github.com/acien101/DiedricoApp/tree/master/DiedricoTo3D">/DiedricoApp/DiedricoTo3D</a><br>
 |<br>
 |<br>
 <b>Primer prototipo con visión atificial y reconocimiento de puntos</b><br>
-Principios de marzo 2016 [/DiedricoApp/DiedricoTo3D](https://github.com/acien101/DiedricoApp/tree/master/DiedricoTo3D)<br>
+Principios de marzo 2016 <a href="https://github.com/acien101/DiedricoApp/tree/master/DiedricoTo3D">/DiedricoApp/DiedricoTo3D</a><br>
 |<br>
 |<br>
 <b>Segundo prototipo con visión artificial con reconocimiento de puntos, lineas y planos</b><br>
-Abril 2016 [/DiedricoApp/DiedricoTo3D](https://github.com/acien101/DiedricoApp/tree/master/DiedricoTo3D)<br>
+Abril 2016 <a href="https://github.com/acien101/DiedricoApp/tree/master/DiedricoTo3D">/DiedricoApp/DiedricoTo3D</a><br>
 |<br>
 |<br>
 <b>Creación de material para la enseñanza (animaciones, documentación, etc.)</b><br>
-Mayo 2016 [/DiedricoApp/DiedricoAnimation](https://github.com/acien101/DiedricoApp/tree/master/DiedricoAnimation)<br>
+Mayo 2016 <a href="https://github.com/acien101/DiedricoApp/tree/master/DiedricoAnimation">/DiedricoApp/DiedricoAnimation</a><br>
 |<br>
 |<br>
 <b>Primer prototipo con el material de enseñanza</b><br>
-Agosto 2016 [/DiedricoApp/DiedricoAnimation](https://github.com/acien101/DiedricoApp/tree/master/DiedricoAnimation)<br>
+Agosto 2016 <a href="https://github.com/acien101/DiedricoApp/tree/master/DiedricoAnimation">/DiedricoApp/DiedricoAnimation</a><br>
 |<br>
 |<br>
 <b>Parón del proyecto</b><br>
-Septiembre ([PyCon 2016](http://2016.es.pycon.org/es/)) - Octubre ([Pymiento proyect](http://thepymientoproject.com/)) - Noviembre ([Maker Faire Bilbao](http://bilbao.makerfaire.com/english/))<br>
+Septiembre (<a href="http://2016.es.pycon.org/es/">PyCon 2016</a>) - Octubre (<a href="http://thepymientoproject.com/">Pymiento proyect</a>) - Noviembre (<a href="http://bilbao.makerfaire.com/english/">Maker Faire Bilbao</a>)<br>
 |<br>
 |<br>
 <b>Unificar las dos ramas, potenciarlas y mejorar la experiencia de usuario</b><br>
-Diciembre 2016 [/DiedricoApp/DiedricoAnimation](https://github.com/acien101/DiedricoApp/tree/master/DiedricoAnimation)<br>
+Diciembre 2016 <a href="https://github.com/acien101/DiedricoApp/tree/master/DiedricoAnimation">/DiedricoApp/DiedricoAnimation</a><br>
 |<br>
 |<br>
 <b>Mejora de la experiencia de usuario, y cambio en el comportamiento de la aplicación para mejorar la documentación</b><br>
-Enero 2017 [/DiedricoApp/DiedricoAnimation](https://github.com/acien101/DiedricoApp/tree/master/DiedricoAnimation)<br>
+Enero 2017 <a href="https://github.com/acien101/DiedricoApp/tree/master/DiedricoAnimation">/DiedricoApp/DiedricoAnimation</a><br>
 |<br>
 |<br>
-<b>Creación de la organización [DiedricoApp](https://github.com/DiedricoApp)</b><br>
+<b>Creación de la organización <a href="https://github.com/DiedricoApp">DiedricoApp</a></b><br>
 Enero 2017<br>
 |<br>
 |<br>
-<b>Creación del [blog del proyecto](http://diedrico.com/)</b><br>
+<b>Creación del <a href="http://diedrico.com/">blog del proyecto</a></b><br>
 Enero 2017<br>
 |<br>
 |<br>
-<b>Creación del [repositorio con el proyecto unificado](https://github.com/DiedricoApp/DiedricoApp)</b><br>
+<b>Creación del <a href="https://github.com/DiedricoApp/DiedricoApp">repositorio con el proyecto unificado</a></b><br>
 Enero 2017<br>
 </div>
 
