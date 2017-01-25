@@ -8,18 +8,22 @@ categories:
 - bienvenido
 ---
 
-Cuando cursé segundo de bachillerato, nuestro profesor de dibujo técnico se negó a enseñarnos dibujo técnico, porque, a vista de él, ya lo había enseñado e primero. Por culpa de esto muchos alumnos de mi clase tuvieron problemas para poder seguir el hilo de la clase e incluso algunos se frustaban porque no eran capaz de ver los ejercicios que a vista de el profesor eran muy simples.
+Cuando cursé segundo de Bachillerato, nuestro profesor de Dibujo Técnico se negó a enseñarnos dicha asignatura, porque, a vista de él, ya lo había enseñado en primero. Por culpa de esto, muchos compañeros tuvieron problemas para poder seguir el hilo de la clase e incluso algunos se frustraban porque no eran capaces de ver los ejercicios que, según aquel profesor, eran muy simples.
 
-Con este panorama me vi obligado a crear una aplicación para ayudar a mis compañeros, en la que explicase toda la asignatura de forma interactiva y además que pudieses pasar las láminas de diédrico a tres dimensiones. Y esa idea es la que se convirtió en **DiedricoApp**.
+Con este panorama me vi obligado a crear una aplicación para ayudar a mis condiscípulos, donde se explicase toda la asignatura de forma interactiva y, además, se pudieses trasladar las láminas de diédrico a tres dimensiones. Y esa idea es la que se convirtió en **DiedricoApp**.
 
-El proyecto de [Diédrico App](https://github.com/DiedricoApp) se comenzó para enero de 2016, y ahora, diciembre de 2016, se encuentra bastante avanzado pero igualmente bastante temprano. La aplicación cuenta con reconocimiento de láminas para pasarlas a tres dimensiones (la UX es nefasta), mucha documentación implementada (planos, lineas, puntos, etc. pero igualmente la UX es malísima), mucho código (pero muy desorganizado).
+El proyecto de [Diédrico App](https://github.com/DiedricoApp) se comenzó en enero de 2016, y ahora, en diciembre de 2016, tiene muchas cosas en el aire pero ninguna está implementada.
+La aplicación cuenta con reconocimiento de láminas para pasarlas a tres dimensiones (la UX es nefasta), mucha documentación implementada (planos, líneas, puntos, etc. pero igualmente la UX es malísima), y mucho código (pero algo desorganizado).
 
 
-La cronología del proyecto se puede ver en el [about](../about/). En mi opinión es importante recalcar otra vez lo que explico en el about, que pone:
+La cronología del proyecto se puede ver en el [about](../about/). En mi opinión es importante recalcar otra vez lo que explico en dicho about:
 
 ---
 
-El pensamiento del proyecto ha pasado por diferentes fases, y en consecuencia, por diferentes repositorios y carpetas, que a día de hoy lo hace un poco lioso de ver como ha evolucionado el proyecto. En primer repositorio del proyecto fue en la cuenta de [github de Fran Acién](https://github.com/acien101/DiedricoApp) donde hay ahora dos carpetas, una *DiedricoTo3D* y otra *DiedricoAnimation*, que serían como laboratorios para experimentar por diferentes ramas de como se enfocaba el proyecto. *DiedricoTo3D* fue la primera parte del proyecto que consistía en reconocimiento con visión artificial de láminas de diédrico. *DiedricoAnimation* fue la segunda parte del proyecto que reunía toda la matería de diédrico. Para simplificar las cosas se creó la organización (en github) de [DiedricoApp](https://github.com/DiedricoApp) en la que estaría el blog y un *merge* de las dos ramas del proyecto, cada una potenciadas para mejorara la experiencia de usuario.
+El pensamiento del proyecto ha pasado por diferentes fases, y en consecuencia, por diferentes repositorios y carpetas, algo que, a día de hoy, puede hacer difícil ver cómo ha evolucionado el proyecto. El primer repositorio del proyecto fue en [github de Fran Acién](https://github.com/acien101/DiedricoApp) donde hay ahora dos carpetas: por un lado *DiedricoTo3D* y otro *DiedricoAnimation*, que serían como una especie de laboratorios para experimentar, en diferentes ópticas, cómo se enfoca el proyecto.
+*DiedricoTo3D* fue la primera parte del proyecto que consistía en reconocimiento con visión artificial de láminas de diédrico. 
+*DiedricoAnimation* fue la segunda parte del proyecto que reunía toda la materia de diédrico.
+Para simplificar las cosas se creó la organización (en github) de [DiedricoApp](https://github.com/DiedricoApp) en la que estaría este blog y un *merge* de las dos ramas del proyecto, ambas potenciadas para mejorar la experiencia del usuario.
 
 Así pues, una cronología de proyecto sería:    
 
@@ -71,6 +75,7 @@ Enero 2017<br>
 <b>Creación del <a href="https://github.com/DiedricoApp/DiedricoApp">repositorio con el proyecto unificado</a></b><br>
 Enero 2017<br>
 </div>  
+
   
 
 ---
