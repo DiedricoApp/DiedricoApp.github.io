@@ -9,7 +9,7 @@ name: DiedricoApp
 description: Página web del proyecto
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars1.githubusercontent.com/u/12751538?v=3&u=c7b67def4cbf299ed375e0838fcf011100be2d26&s=400
+avatar: /images/logo.png
 
 #
 # Flags below are optional
