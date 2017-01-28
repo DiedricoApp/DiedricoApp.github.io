@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mejorando la experiencia de usuario"
-date:   2017-1-7 14:56:45
+date:   2017-1-15 20:02:45
 description: Las decisiones de diseño de los últimos meses para conseguir que la gente sea capaz de entender DiedricoApp sin morir en el intento 
 categories:
 - blog
