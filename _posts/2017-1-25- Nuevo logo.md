@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "¡¡Nuevo logo!!"
-date:   2017-1-15 20:02:45
+date:   2017-1-25 20:02:45
 description: Ahora la aplicación reluce mucho más porque tiene un nuevo logo
 categories:
 - blog
