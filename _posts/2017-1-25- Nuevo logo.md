@@ -19,7 +19,7 @@ Ahora la aplicación reluce mucho más porque tiene un nuevo logo. Algunos ejemp
 
 Está desarrollado en Inkscape (General Public License) y juega con las formas del eje de coordenadas del sistema diédrico. La paleta de colores es sacada de la página de [Android developers](https://material.io/guidelines/style/color.html).
 
-Para llegar al resultado que hay, lo que hice fue crear un eje de coordenadas en FreeCAD, modelador 3D, hice una captura y la pasé a Inkscape. Luego pasé la imagen el eje de coordenadas a vectorial y luego fui coloreando con la paleta antes mencionada. El resultado es el siguiente:
+Para llegar al resultado que hay, lo que hice fue crear un eje de coordenadas en FreeCAD, hice una captura y la pasé a Inkscape. Luego pasé la imagen del eje de coordenadas a vectorial y fui coloreando con los colores de la paleta antes mencionada. El resultado es el siguiente:
 
 ![DiedricoApp en Agosto 2016](../images/logo.png)  
 
