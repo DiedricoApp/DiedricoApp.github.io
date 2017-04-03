@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NavigationView con ExpandableListView Android "
-date:   2017-2-10 14:56:45
+date:   2017-2-15 14:56:45
 description: La solución perfecta para poner muchos elementos en un NavigationView
 categories:
 - blog
