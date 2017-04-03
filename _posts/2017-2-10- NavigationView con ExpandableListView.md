@@ -11,10 +11,10 @@ categories:
 
 La aplicación está avanzando y ha llegado al punto en el que tenemos mucha documentación, pero hay que ordenarla con nuestro objetivo de tener una UX (*user experience*) presentable. La mejor solución es utilizar un Navigation View.
 
-##¿Qué es un NavigationView?
-NavigationView es una herramienta que se implementó en Android con el objetivo de organizar las aplicaciones poniendo un menú de navegación lateral. 
+## ¿Qué es un NavigationView?
+NavigationView es una herramienta que se implementó en Android con el objetivo de organizar las aplicaciones poniendo un menú de navegación lateral.   
 
-FOTO MENU
+<img src="../images/menu_ejemplo.png" alt="all" height="330"><br>
 
 Para implementarlo hay que poner:
 
@@ -45,7 +45,7 @@ Nuestro objetivo es poner todos los tipos de planos, todos los tipos de lineas, 
 
 Luego hay que modificar el adapter para que funcione como queramos. Lo que he hecho es que he puesto todos los menus en array's en Resources, y luego los voy metiendo en el ExpandableListView. El código se puede encontrar [aquí](https://github.com/DiedricoApp/DiedricoApp/blob/master/DiedricoApp/app/src/main/java/com/diedrico/diedricoapp/MainActivity.java).
 
-El resultado final es:
+El resultado final es:  
 <img src="../images/expandableListView.gif" alt="all" height="330"><br>
 
 amil101@debian:~$ EXIT
