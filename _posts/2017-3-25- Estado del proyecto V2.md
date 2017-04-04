@@ -34,17 +34,18 @@ Las cosas que están pendientes por hacer son:
 * Muchas cosas más...  
 
 Esto es todo por el momento. Iré subiendo los avances.  
+
 ---
 
 Ahora la app es totalmente diferente y reluce así:
 
 ![DiedricoApp en 2017](../images/documentacion.gif)
 
-Una cosa que estuvo implementada hace tiempo era lo de pasar una lámina a un espacio tridimensional, pero su uso era muy complicado porque la experiencia de usuario era muy mala. Por ese motivo, y por falta de tiempo, he prescindido de meterla a la fuerza y seguir trabajando en el futuro para que sea una herramienta de calidad. El principal problema que tenía en el pasado era que el usuario tenía que decirle al programa que había en la imagen, aunque el objetivo que nos marcamos era de que la aplicación fuese capaz de adivinar lo que había. Esto se está llevando ha cabo y funciona como ya vimos en [Visión artificial en Android](Visión-artifial-en-Android/). Pero como no son compatibles una cosa con la otra, he optado por prescindir de ella por ahora, y seguir trabajando para que ese objetivo sea posible de la mejor forma posible.
+Una cosa que estuvo implementada hace tiempo era lo de pasar una lámina a un espacio tridimensional, pero su uso era muy complicado porque la experiencia de usuario era muy mala. Por ese motivo, y por falta de tiempo, he prescindido de meterla a la fuerza y seguir trabajando en el futuro para que sea una herramienta de calidad. El principal problema que tenía en el pasado era que el usuario tenía que decirle al programa que había en la imagen, aunque el objetivo que nos marcamos era de que la aplicación fuese capaz de adivinar lo que había. Esto se está llevando ha cabo y funciona como ya vimos en [Visión artificial en Android](../Visión-artifial-en-Android/). Pero como no son compatibles una cosa con la otra, he optado por prescindir de ella por ahora, y seguir trabajando para que ese objetivo sea posible de la mejor forma posible.
 
-* El objetivo de mejorar la UX(user experience) se ha mejorado rotundamente. Se ha hecho el [NavigationView de una forma más ordenada](NavigationView-con-ExpandableListView), se ha cambiado toda la interfaz por [fragments y por pestañas](Cambiando-las-pestañas). Además se ha [creado un logo](Nuevo-logo/) y el blog que estás visitando. Se han ordenado los repositorios, creando la organización de [DiedricoApp en github](https://github.com/diedricoapp).
+* El objetivo de mejorar la UX(user experience) se ha mejorado rotundamente. Se ha hecho el [NavigationView de una forma más ordenada](../NavigationView-con-ExpandableListView), se ha cambiado toda la interfaz por [fragments y por pestañas](../Cambiando-las-pestañas). Además se ha [creado un logo](Nuevo-logo/) y el blog que estás visitando. Se han ordenado los repositorios, creando la organización de [DiedricoApp en github](https://github.com/diedricoapp).
 
-* El objetivo de añadir reconocimiento de láminas se ha mejorado pero está todavía en proceso. Como ya expliqué en el artículo de [Visión artificial en Android](Visión-artifial-en-Android/) había hecho unos cuantos filtros para eliminar las imperfecciones de las imagenes. El resultado final es que funciona pero no del todo, hace falta dedicarle más tiempo y que sea capaz de reconocer las láminas al 100%. Pero, por lo menos, está por buen camino.
+* El objetivo de añadir reconocimiento de láminas se ha mejorado pero está todavía en proceso. Como ya expliqué en el artículo de [Visión artificial en Android](../Visión-artifial-en-Android/) había hecho unos cuantos filtros para eliminar las imperfecciones de las imagenes. El resultado final es que funciona pero no del todo, hace falta dedicarle más tiempo y que sea capaz de reconocer las láminas al 100%. Pero, por lo menos, está por buen camino.
 
 * El objetivo de *Añadir nuevas funciones para mejorar la experiencia en telefonos móviles* no está muy trabajado, aunque hay algún intento de ello en trabajo. Poco a poco iré poniendo el resultado de mi avanze.
 
